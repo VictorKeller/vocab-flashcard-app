@@ -1,0 +1,7 @@
+Please translate the following words to standard german. Write them in the format "english word = german word". And please do not forget to list them using bullet points. 
+
+
+
+Please translate these phrases to spoken german. Do not forget to list them in the following format:
+- original phrase 1 = translation
+- original phrase 2 = translation
